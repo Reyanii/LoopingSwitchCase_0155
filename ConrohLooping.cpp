@@ -16,4 +16,20 @@ int main ()
     { // You, 5 hours ago * add all
         cout << "Nilai n = " << 0 << " Selamat Datang " << endl;
     }
+    cout << "Nilai n terakhir = " << n << endl;
+    cout << endl;
+
+    cout << "Perulangan for pencacah turun" << endl;
+    //Perulangan dengan For
+    for (n = 5; n > 0; n--)
+    {
+        cout << "Nilai n = "  << n << "Selamat Datang" << endl;
+    }
+    cout << "Nilai n terakhir = " << n;
+    cout << endl;
+
+    cout << "Perualngan while" << endl;
+
+    
+
 }
